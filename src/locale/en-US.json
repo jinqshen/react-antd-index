@@ -1,0 +1,37 @@
+{
+    "menu": {
+        "home": "Home",
+        "bookstore": "Bookstore",
+        "article": "Summary",
+        "technical": "Technical",
+        "permission": "Permission",
+        "permissiontest": "Permission Test",
+        "manager": "Management",
+        "articlemgr": "Article Management",
+        "usermgr": "User Management",
+        "login": "Login"
+    },
+    "login": {
+        "nameplace": "username",
+        "pswdplace": "password",
+        "namerequire": "Please input username",
+        "pswdrequire": "Please input password",
+        "loginbtn": "Login",
+        "visitorlogin": "Visitor Login"
+    },
+    "header": {
+        "openmenu": "Open Menu",
+        "collapsemenu": "Collapse Menu",
+        "logout": "Logout",
+        "theme": {
+            "light": "Light",
+            "dark": "Dark"
+        }
+    },
+    "tabsview": {
+        "refresh": "Refresh",
+        "close": "Close",
+        "closeother": "Close Other",
+        "closeall": "Close All"
+    }
+}

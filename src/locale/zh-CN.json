@@ -1,0 +1,37 @@
+{
+    "menu": {
+        "home": "主页",
+        "bookstore": "三味书屋",
+        "article": "工作总结",
+        "technical": "技术学习",
+        "permission": "权限",
+        "permissiontest": "权限测试",
+        "manager": "管理",
+        "articlemgr": "文章管理",
+        "usermgr": "用户管理",
+        "login": "登录"
+    },
+    "login": {
+        "nameplace": "用户名",
+        "pswdplace": "密码",
+        "namerequire": "请输入用户名",
+        "pswdrequire": "请输入密码",
+        "loginbtn": "登录",
+        "visitorlogin": "访客登录"
+    },
+    "header": {
+        "openmenu": "展开菜单",
+        "collapsemenu": "收起菜单",
+        "logout": "注销",
+        "theme": {
+            "light": "默认主题",
+            "dark": "暗黑主题"
+        }
+    },
+    "tabsview": {
+        "refresh": "刷新",
+        "close": "关闭",
+        "closeother": "关闭其他",
+        "closeall": "关闭所有"
+    }
+}
